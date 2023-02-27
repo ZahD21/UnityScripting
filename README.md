@@ -1,5 +1,5 @@
 # UnityScripting
 
-git add .
-git commit -m "Any message"
-git push
+git add .  
+git commit -m "Any message"  
+git push  
